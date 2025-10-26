@@ -1,0 +1,17 @@
+# ML Libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Web Frameworks
+streamlit
+fastapi
+uvicorn
+pydantic>
+
+python-multipart
