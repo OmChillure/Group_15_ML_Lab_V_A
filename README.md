@@ -191,7 +191,7 @@ seaborn
 
 ---
 
-## 🛠️ Future Enhancements
+## Future Enhancements
 
 - [ ] Add support for more networks (Cardano, Polkadot, etc.)
 - [ ] Implement checksum validation
