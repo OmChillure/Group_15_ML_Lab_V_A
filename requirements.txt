@@ -12,6 +12,6 @@ plotly
 streamlit
 fastapi
 uvicorn
-pydantic>
+pydantic
 
 python-multipart
